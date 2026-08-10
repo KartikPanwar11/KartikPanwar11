@@ -1,19 +1,19 @@
-# Hi, I'm Kartik Panwar 👋
+# Hi, I'm Kartik Panwar 
 
-Full Stack Developer | React · JavaScript · Node.js
-Based in Delhi NCR 🇮🇳 | Open to opportunities
+Full Stack Developer | JavaScript · React · TypeScript · Node.js · Express · MongoDB
+Based in Delhi NCR | Open to opportunities
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:** React.js · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Node.js · Express  
-**Tools:** Git · GitHub · Vite · Netlify · VS Code  
+**Tools:** Git · GitHub · Parcel · Vite · Netlify · VS Code  
 **Currently Learning:** TypeScript · PostgreSQL · REST APIs
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Live |
 |---------|-------------|------|
@@ -22,13 +22,7 @@ Based in Delhi NCR 🇮🇳 | Open to opportunities
 
 ---
 
-## 📈 GitHub Stats
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikPanwar11&show_icons=true&theme=react)
-
----
-
-## 📬 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikpanwar11)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://agent-693c5d332fdee73c0--kartik-panwar-portfolio.netlify.app/)
