@@ -7,9 +7,9 @@ Based in Delhi NCR | Open to opportunities
 
 ##  Tech Stack
 
-**Frontend:** React.js · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Node.js · Express  
+**Frontend:** React.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · Node.js · Express  
 **Tools:** Git · GitHub · Parcel · Vite · Netlify · VS Code  
-**Currently Learning:** TypeScript · PostgreSQL · REST APIs
+**Currently Learning:**  PostgreSQL · REST APIs
 
 ---
 
@@ -17,8 +17,9 @@ Based in Delhi NCR | Open to opportunities
 
 | Project | Description | Live |
 |---------|-------------|------|
-| [WayFinder](https://github.com/KartikPanwar11/WayFinder) | Travel destination UI built with React props & dynamic lists | [Live ↗](https://wayfinder1101.netlify.app/) |
-| [Productivity Hub](https://github.com/KartikPanwar11/Productivity-Hub) | A productivity-focused web app | [Live ↗](#) |
+| [FoodieZone](https://github.com/KartikPanwar11/FoodieZone) | A responsive food delivery SPA built with React, React Router, and custom hooks, featuring live API integration and dynamic state management. | [Live ↗](foodiezone-zeta.vercel.app/) |
+| [WayFinder](https://github.com/KartikPanwar11/WayFinder)   | Travel destination UI built with React props & dynamic lists | [Live ↗](https://wayfinder1101.netlify.app/) |
+ 
 
 ---
 
