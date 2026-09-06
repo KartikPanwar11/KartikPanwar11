@@ -8,7 +8,7 @@ Based in Delhi NCR | Open to opportunities
 ##  Tech Stack
 
 **Frontend:** React.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3 · Tailwind CSS · Node.js · Express  
-**Tools:** Git · GitHub · Parcel · Vite · Netlify · VS Code  
+**Tools:** Git · GitHub · Parcel · Vite · Netlify · Vercel · VS Code  
 **Currently Learning:**  PostgreSQL · REST APIs
 
 ---
