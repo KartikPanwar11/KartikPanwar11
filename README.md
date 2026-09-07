@@ -17,8 +17,10 @@ Based in Delhi NCR | Open to opportunities
 
 | Project | Description | Live |
 |---------|-------------|------|
+| [Portfolio](https://github.com/KartikPanwar11/portfolio)   | Perosnal portfolio website | [Live↗]() |
 | [FoodieZone](https://github.com/KartikPanwar11/FoodieZone) | A responsive food delivery SPA built with React, React Router, and custom hooks, featuring live API integration and dynamic state management. | [Live ↗](https://foodiezone-zeta.vercel.app/) |
 | [WayFinder](https://github.com/KartikPanwar11/WayFinder)   | Travel destination UI built with React props & dynamic lists | [Live ↗](https://wayfinder1101.netlify.app/) |
+
  
 
 ---
