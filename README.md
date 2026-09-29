@@ -21,7 +21,6 @@ Full Stack Developer | JavaScript · TypeScript · React · Node.js · Express
 | Project | Description | Live |
 |---------|-------------|------|
 | [FoodieZone](https://github.com/KartikPanwar11/FoodieZone) | A responsive food delivery SPA built with React, React Router, and custom hooks, featuring live API integration and dynamic state management. | [Live&nbsp;↗](https://foodiezone-zeta.vercel.app/) |
-| [Portfolio](https://github.com/KartikPanwar11/portfolio)   | Personal portfolio website | [Live&nbsp;↗]() |
 | [WayFinder](https://github.com/KartikPanwar11/WayFinder)   | Travel destination UI built with React props & dynamic lists | [Live&nbsp;↗](https://wayfinder1101.netlify.app/) |
 
  
