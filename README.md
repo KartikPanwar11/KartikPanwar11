@@ -10,9 +10,10 @@ Full Stack Developer | JavaScript · TypeScript · React · Node.js · Express
 **Languages:** JavaScript (ES6+) · TypeScript · Python · HTML5 · CSS3  
 **Frontend:** React.js · Redux · Tailwind CSS · Bootstrap  
 **Backend:** Node.js · Express.js  
-**Databases:** MongoDB · PostgreSQL  
+**Databases:** MongoDB 
+**Testing:** Jest · React Testing Library
 **Tools:** Git · GitHub · Parcel · Vite · Netlify · Vercel · VS Code  
-**Currently Learning:** Next.js · System Design
+**Currently Learning:** Next.js · System Design · PostgreSQL
 
 ---
 
