@@ -1,21 +1,28 @@
 # Hi, I'm Kartik Panwar 
 
-Full Stack Developer | JavaScript · TypeScript · React · Node.js · Express
-· PostgreSQL | Based in Delhi NCR | Open to opportunities
+**Frontend-focused Full Stack** building responsive web applications with JavaScript, TypeScript, React, and modern frontend tools  
+Delhi NCR, India  
+Open to Frontend / Full Stack Developer opportunities
 
----
+
+## About Me
+
+- Frontend-focused developer building responsive and interactive web applications with React
+- Comfortable with reusable components, state management, routing, and API integration
+- Interested in clean UI, responsive design, and creating smooth user experiences
+- Currently expanding my backend skills with Node.js, Express.js, and databases
+- Learning Next.js, PostgreSQL, System Design, and improving my DSA skills
 
 ## Tech Stack
 
 **Languages:** JavaScript (ES6+) · TypeScript · Python · HTML5 · CSS3  
 **Frontend:** React.js · Redux · Tailwind CSS · Bootstrap  
-**Backend:** Node.js · Express.js 
-**Databases:** MongoDB 
-**Testing:** Jest · React Testing Library 
-**Tools:** Git · GitHub · Parcel · Vite · Netlify · Vercel · VS Code 
-**Currently Learning:** Next.js · System Design · PostgreSQL 
+**Backend:** Node.js · Express.js  
+**Databases:** MongoDB  
+**Testing:** Jest · React Testing Library  
+**Tools:** Git · GitHub · Parcel · Vite · Netlify · Vercel · VS Code  
+**Currently Learning:** Next.js · System Design · PostgreSQL
 
----
 
 ##  Featured Projects
 
@@ -24,9 +31,6 @@ Full Stack Developer | JavaScript · TypeScript · React · Node.js · Express
 | [FoodieZone](https://github.com/KartikPanwar11/FoodieZone) | A responsive food delivery SPA built with React, React Router, and custom hooks, featuring live API integration and dynamic state management. | [Live&nbsp;↗](https://foodiezone-zeta.vercel.app/) |
 | [WayFinder](https://github.com/KartikPanwar11/WayFinder)   | Travel destination UI built with React props & dynamic lists | [Live&nbsp;↗](https://wayfinder1101.netlify.app/) |
 
- 
-
----
 
 ## Let's Connect
 
