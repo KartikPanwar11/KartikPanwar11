@@ -1,6 +1,6 @@
 # Hi, I'm Kartik Panwar 
 
-**Frontend-focused Full Stack** building responsive web applications with JavaScript, TypeScript, React, and modern frontend tools  
+**Frontend-focused Full Stack** building responsive web applications with **JavaScript, TypeScript, React, and modern frontend tools**  
 Delhi NCR, India  
 Open to Frontend / Full Stack Developer opportunities
 
