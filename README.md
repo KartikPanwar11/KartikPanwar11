@@ -20,7 +20,6 @@ Open to Frontend / Full Stack Developer opportunities
 **Backend:** Node.js · Express.js  
 **Testing:** Jest · React Testing Library  
 **Tools:** Git · GitHub · Parcel · Vite · Netlify · Vercel · VS Code  
-**Currently Learning:** Next.js · System Design · PostgreSQL
 
 
 ##  Featured Projects
@@ -34,4 +33,5 @@ Open to Frontend / Full Stack Developer opportunities
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikpanwar11) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://agent-693c5d332fdee73c0--kartik-panwar-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikpanwar11) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]([https://kartik-panwar.vercel.app])
